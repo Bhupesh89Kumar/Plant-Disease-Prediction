@@ -8,8 +8,8 @@ Take necessary actions 👍
 
 ## Webpage Preview
 
-![image](https://user-images.githubusercontent.com/96369223/207110121-6b0dc821-ebf7-4be2-be8a-df19aae79296.png)
+![image](file:///Users/bhupeshkumar/Downloads/WhatsApp%20Image%202023-11-14%20at%2013.46.26.jpeg)
 
 ## Disease Prediction
 
-![image](https://user-images.githubusercontent.com/96369223/207110333-46cdf258-7ee8-4ccb-902a-63891785b42e.png)
+![image](file:///Users/bhupeshkumar/Downloads/WhatsApp%20Image%202023-11-14%20at%2013.48.37%20(1).jpeg)
